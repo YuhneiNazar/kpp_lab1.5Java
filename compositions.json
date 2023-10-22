@@ -1,0 +1,38 @@
+[
+  {
+    "Title": "Пісня2",
+    "Genre": "Поп",
+    "Artist": "Виконавець1",
+    "Lyrics": "Текст2",
+    "CreationDate": "Nov 16, 2022, 12:00:00 AM",
+    "Duration": 2.0,
+    "Format": "waw",
+    "Ratings": {
+      "rating": 4.6
+    }
+  },
+  {
+    "Title": "Пісня1",
+    "Genre": "Рок",
+    "Artist": "Виконавець2",
+    "Lyrics": "Текст1",
+    "CreationDate": "Oct 3, 2022, 12:00:00 AM",
+    "Duration": 3.0,
+    "Format": "mp3",
+    "Ratings": {
+      "rating": 3.6
+    }
+  },
+  {
+    "Title": "Новий Рік",
+    "Genre": "Джаз",
+    "Artist": "Виконавець3",
+    "Lyrics": "Святкування Нового Року",
+    "CreationDate": "Dec 20, 2022, 12:00:00 AM",
+    "Duration": 3.0,
+    "Format": "mp3",
+    "Ratings": {
+      "rating": 4.2
+    }
+  }
+]
